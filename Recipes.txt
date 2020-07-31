@@ -6,6 +6,9 @@ pizza
 burger
 Pasta
 
+Beans
+Chicken Fry
+
 
 
 thank you :)
